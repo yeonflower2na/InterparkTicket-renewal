@@ -382,4 +382,3 @@
 
 ## 🔗 링크
 - [리뉴얼 디자인 시안 피그마 주소](https://www.figma.com/design/eAUHCPFz1k94kCXCDHejVT/%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%ED%8B%B0%EC%BC%93-%EB%A6%AC%EB%89%B4%EC%96%BC%EB%94%94%EC%9E%90%EC%9D%B8?node-id=2-3105&t=kpHnJn7In8PglLXw-1)
-- [인터파크티켓 본 사이트](https://tickets.interpark.com)
