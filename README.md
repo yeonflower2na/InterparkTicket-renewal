@@ -12,6 +12,19 @@
  2024.11~2024.12
 <br><br>
 
+<br/>
+<br>
+
+## 📝 링크
+
+| 이름                          | 링크                                                                                               |
+|-------------------------------|----------------------------------------------------------------------------------------------------|
+| 리뉴얼 홈페이지                | [리뉴얼 홈페이지 Link](https://yeonflower2na.github.io/InterparkTicket-renewal/)                                   |
+| 피그마 디자인 파일             | [피그마 Link](https://www.figma.com/design/eAUHCPFz1k94kCXCDHejVT/%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%ED%8B%B0%EC%BC%93-%EB%A6%AC%EB%89%B4%EC%96%BC%EB%94%94%EC%9E%90%EC%9D%B8?m=auto&t=INT4iOmr9LzgaeEs-6)          |
+
+<br>
+<br>
+
  ## ✨ 도메인
 
 ```
